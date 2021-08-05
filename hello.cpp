@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main()
+int main(int ac, char **av)
 {
-        std::cout << "Hello, World!" << std::endl;
+	std::cout << "Hello, World!" << std::endl;
 }
+
